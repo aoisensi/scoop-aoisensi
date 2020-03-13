@@ -1,0 +1,9 @@
+{
+  "version": "0.1.1",
+  "architecture": {
+    "64bit": {
+      "url":"https://github.com/SteamDatabase/ValveResourceFormat/releases/download/0.1.1/Decompiler-win-x64.zip"
+    }
+  },
+  "bin": "VRF.exe"
+}
